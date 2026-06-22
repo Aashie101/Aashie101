@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who
 
 👨‍💻 About Me
 
-- 🔭 I’m currently pursuing a Master of Information Technology (Cybersecurity) at La Trobe University.
 - 🌱 I'm currently learning JavaScript and advanced Python
 - 💬 Ask me about anything related to Python or Web Development.
 - ⚡ Fun fact: I love solving logic puzzles like Sudoku and building tools for productivity.
@@ -20,11 +19,6 @@ Python
 HTML/CSS
 C#
 SQL
-
----
-
-📫 Connect With Me
-Instagram: https://www.instagram.com/aashie_912/
 
 ---
 
