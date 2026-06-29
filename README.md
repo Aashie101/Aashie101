@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who
 - 🌱 I'm currently learning JavaScript and advanced Python
 - 💬 Ask me about anything related to Python or Web Development.
 - ⚡ Fun fact: I love solving logic puzzles like Sudoku and building tools for productivity.
-- 📫 Reach me at: kaur.prabhjot.122004@gmail.com
+- 📫 Reach me at: prabhjotkaashie@gmail.com
 ---
 
 🛠️ Tech Stack
